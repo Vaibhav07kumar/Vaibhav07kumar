@@ -83,14 +83,6 @@
 
 ---
 
-### 📈 Activity Graph:
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav07kumar&theme=react-dark&area=true" alt="GitHub Activity Graph">
-</p>
-
----
-
 ### 🧠 Quote of the Day:
 
 > *Just believe, he never lets you fail.* — 🙏 Dedicated to Lord Hanuman
